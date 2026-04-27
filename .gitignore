@@ -1,0 +1,19 @@
+# Root gitignore
+.DS_Store
+komutlar.txt
+
+# Data folders (Crucial for privacy)
+mydata/
+instagramdata/
+public/data/*.json
+
+# Node modules
+node_modules/
+snap-viewer/node_modules/
+
+# Build artifacts
+dist/
+snap-viewer/dist/
+
+# Logs
+*.log
