@@ -36,7 +36,7 @@ SnapViewer, Snapchat ve Instagram'dan indirdiğiniz verileri (JSON formatında) 
 
 ### 1. Projeyi Klonlayın veya İndirin
 ```bash
-git clone https://github.com/kullaniciadi/SnapViewer.git
+git clone https://github.com/mertarslna/SnapViewer.git
 cd SnapViewer/snap-viewer
 ```
 
@@ -85,4 +85,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ---
 
-*Geliştiren: [Mert Arslan](https://github.com/mertarslan)*
+*Geliştiren: [Mert Arslan](https://github.com/mertarslna)*
